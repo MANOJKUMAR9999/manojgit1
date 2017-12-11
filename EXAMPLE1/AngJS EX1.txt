@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>AngularJS HTML DOM</title>
+<title>AngularJS HTML DOM on demo_11</title>
 </head>
 
 <body>
